@@ -1,9 +1,14 @@
-# api documentation for  [webpack-notifier (v1.5.0)](https://github.com/Turbo87/webpack-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-webpack-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webpack-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webpack-notifier.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webpack-notifier)
+# npmdoc-webpack-notifier
+
+#### api documentation for  [webpack-notifier (v1.5.0)](https://github.com/Turbo87/webpack-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-webpack-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webpack-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webpack-notifier.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webpack-notifier)
+
 #### webpack + node-notifier = build status system notifications
 
-[![NPM](https://nodei.co/npm/webpack-notifier.png?downloads=true)](https://www.npmjs.com/package/webpack-notifier)
+[![NPM](https://nodei.co/npm/webpack-notifier.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webpack-notifier)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-webpack-notifier/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-webpack-notifier_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webpack-notifier/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-webpack-notifier/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-webpack-notifier/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-webpack-notifier/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webpack-notifier/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-webpack-notifier/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Tobias Bieniek",
-        "email": "tobias.bieniek@gmx.de"
+        "name": "Tobias Bieniek"
     },
     "bugs": {
         "url": "https://github.com/Turbo87/webpack-notifier/issues"
@@ -55,13 +59,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "turbo87",
-            "email": "tobias.bieniek@gmx.de"
+            "name": "turbo87"
         }
     ],
     "name": "webpack-notifier",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Turbo87/webpack-notifier.git"
@@ -72,16 +74,6 @@
     "version": "1.5.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module webpack-notifier](#apidoc.module.webpack-notifier)
-
-
-
-# <a name="apidoc.module.webpack-notifier"></a>[module webpack-notifier](#apidoc.module.webpack-notifier)
 
 
 

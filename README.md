@@ -1,6 +1,6 @@
 # npmdoc-webpack-notifier
 
-#### api documentation for  [webpack-notifier (v1.5.0)](https://github.com/Turbo87/webpack-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-webpack-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webpack-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webpack-notifier.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webpack-notifier)
+#### basic api documentation for  [webpack-notifier (v1.5.0)](https://github.com/Turbo87/webpack-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-webpack-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webpack-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webpack-notifier.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webpack-notifier)
 
 #### webpack + node-notifier = build status system notifications
 
@@ -71,7 +71,8 @@
     "scripts": {
         "test": "eslint index.js"
     },
-    "version": "1.5.0"
+    "version": "1.5.0",
+    "bin": {}
 }
 ```
 
